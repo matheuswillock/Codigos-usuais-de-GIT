@@ -5,7 +5,7 @@ Códigos usuais
 git pull
 * Para ter certeza que temos o projeto 100% atualizada na master
 
-git checkout -b nome-da-branch-nova
+git checkout -b 'nome-da-branch-nova'
 
 * Para criar a branch nova. Não pode haver espaço entre o nome da branch, mas deve conter o hífen
 
@@ -13,7 +13,7 @@ git clone
 
 * Para clonar o repositório.
 
-git branch -D nome-da-branch 
+git branch -D 'nome-da-branch' 
 
 * Para deletar uma branch criada.
 
@@ -21,7 +21,7 @@ git checkout master
 
 * Para irmos para a Master.
 
-git checkout nome-da-branch
+git checkout 'nome-da-branch'
 
 * Para irmos para a branch desejável. Por exemplo: git checkout master — Para irmos para a Master.
 
@@ -33,11 +33,11 @@ git commit -m ‘nome_do_commit’
 
 * usamos esse comando para commitar uma atualização nova para a master.
 
-git push origin nome_da_branch
+git push origin 'nome_da_branch'
 
 * Para abrir um pull request no github.
 
-git merge nome_da_branch
+git merge 'nome_da_branch'
 
 * para ‘mergear’ o pull request do github
 
