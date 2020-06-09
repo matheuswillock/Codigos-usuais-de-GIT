@@ -1,6 +1,6 @@
 # codigos usuais
 
-Códigos usuais
+Os códigos mais usuais no dia-a-dia como por exmplo; como criar um PR como Commitar uma alteração e códigos para criação de chave SSH para a vinculação do PC com a conta no Github.
 
 ## git pull
 * Para ter certeza que temos o projeto 100% atualizada na master
