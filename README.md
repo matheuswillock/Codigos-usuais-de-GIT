@@ -52,8 +52,8 @@ Códigos usuais
 #### 1. Acessar conta do https://github.com/
 
 #### 2.  Rodar esse comando no terminal gitBash:
-ssh-keygen -t rsa -b 4096 -C "programadorjedi@outlook.com"
-ssh-keygen -t rsa -b 4096 -C "matheuswillock@outlook.com"
+ssh-keygen -t rsa -b 4096 -C "example@email.com"
+
 
 #### 3. Apertar enter, enter, enter...
 
